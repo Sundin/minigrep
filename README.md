@@ -15,6 +15,10 @@ Run project:
 
     cargo run <query> <filename>
 
+Or:
+
+    CASE_INSENSITIVE=true cargo run <query> <filename>
+
 Run unit tests:
 
     cargo test
