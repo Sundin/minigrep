@@ -13,7 +13,7 @@ Add the following line to your `~/.bashrc` or `~/.zshrc`:
 
 Run project:
 
-    cargo run
+    cargo run <query> <filename>
 
 Run unit tests:
 
